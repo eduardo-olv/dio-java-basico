@@ -8,7 +8,7 @@ public class Usuario {
 
 
             tvSmart.ligar ();
-                System.out.println("Novo Status - Tv Ligada? " + tvSmart.ligada);
+              
 
             System.out.println("Canal Atual: " + tvSmart.canal);
             System.out.println("Volume Atual: " + tvSmart.volume);
@@ -26,7 +26,7 @@ public class Usuario {
             tvSmart.mudarCanal(13);
 
             tvSmart.desligar ();
-                System.out.println("Novo Status - Tv Ligada? " + tvSmart.ligada);
+                
 
     }
 }

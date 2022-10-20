@@ -6,10 +6,12 @@ public class tvSmart {
 
 public void ligar(){
     ligada = true;
+    System.out.println("Novo Status - Tv Ligada? " + ligada);
 }
 
 public void desligar(){
     ligada = false;
+    System.out.println("Novo Status - Tv Ligada? " + ligada);
 }
 
 public void aumentarVolume(){
