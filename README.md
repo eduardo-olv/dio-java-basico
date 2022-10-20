@@ -91,9 +91,7 @@ Os arquivos java receberão uma linha de código indicando que está dentro de u
 
 
 
-
-
-### Tipos de Variáveis
+## Tipos de Variáveis 
 
 
 
@@ -126,7 +124,9 @@ Tipos não numéricos:
 
 
 
-### Operador ternário
+## Operador ternário
+
+
 
 **Forma padrão:**
 
@@ -162,4 +162,26 @@ System.out.println(nomeUm.*equals*(nomeDois));
 | :-------------- | ----------- |
 | \|\|            | OU          |
 | &&              | E           |
+
+
+
+## Métodos
+
+Estruturas resposáveis por executar uma ação dentro do programa, como calcular, enviar, imprimir, etc ...
+
+Deve-se especificar a visibilidade, o tipo de retorno, o nome e os parâmetros.
+
+
+
+**Visibilidade:** *public* (visível para todo o código) ou *private* (Não pode ser visto por outras classes).
+
+**Tipo de retorno:** Mesmos tipos das variáveis. *void* não retorna nada.
+
+**Nome:** Verbo infinitivo, ação a ser feita.
+
+**Parâmetros:** Elementos a serem utilizados no método, como os números a serem somados.
+
+
+
+**public** *int* somar (*int* numeroUm, *int* numeroDois)
 
