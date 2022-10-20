@@ -99,16 +99,12 @@ Os arquivos java receberão uma linha de código indicando que está dentro de u
 
 Tabela de Tipos Primitivos e seus valores:
 
-| Tipo    | Memória | Valor Máximo               | Valor Mínimo                        |
-| ------- | ------- | -------------------------- | ----------------------------------- |
-| byte    | 1 byte  | 127                        | -128                                |
-| short   | 2 byte  | 32.767                     | -32.768                             |
-| int     | 4 bytes | 2.147.483.647              | -2.147.483.648                      |
-| long    | 8 bytes | 9.223.372.036.854.775.807L | -9.223.372.036.854.775.808          |
-| boolean | 1 bit   | Lógico                     | false; true                         |
-| char    | 1 byte  | caractere                  | 'A'                                 |
-| String  |         | Texto                      | "abcdefghi"                         |
-| Classe  |         | Classe que representa algo | Date dataNascimento = new Date ( ); |
+| Tipo  | Memória | Valor Máximo               | Valor Mínimo               |
+| ----- | ------- | -------------------------- | -------------------------- |
+| byte  | 1 byte  | 127                        | -128                       |
+| short | 2 byte  | 32.767                     | -32.768                    |
+| int   | 4 bytes | 2.147.483.647              | -2.147.483.648             |
+| long  | 8 bytes | 9.223.372.036.854.775.807L | -9.223.372.036.854.775.808 |
 
 Os tipos primitivos que podem conter partes fracionárias podem ser representados por dois tipos:
 
