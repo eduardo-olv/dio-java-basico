@@ -1,0 +1,185 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch buscaSequencial",
+            "request": "launch",
+            "mainClass": "edu.eduardo.exercicios.buscaSequencial",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch testeDoisTres",
+            "request": "launch",
+            "mainClass": "edu.eduardo.testeDoisTres",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch testquattro",
+            "request": "launch",
+            "mainClass": "edu.eduardo.testquattro",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch Desafio",
+            "request": "launch",
+            "mainClass": "edu.eduardo.Desafio",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculaArea",
+            "request": "launch",
+            "mainClass": "edu.eduardo.calculaArea",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExOperacoes",
+            "request": "launch",
+            "mainClass": "edu.eduardo.ExOperacoes",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch testetres",
+            "request": "launch",
+            "mainClass": "edu.eduardo.testetres",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayMulti",
+            "request": "launch",
+            "mainClass": "edu.eduardo.arrayMulti",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch numerosAleatorios",
+            "request": "launch",
+            "mainClass": "edu.eduardo.numerosAleatorios",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch consoantes",
+            "request": "launch",
+            "mainClass": "edu.eduardo.consoantes",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch ordemInversa",
+            "request": "launch",
+            "mainClass": "edu.eduardo.ordemInversa",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch fatorial",
+            "request": "launch",
+            "mainClass": "edu.eduardo.fatorial",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch nomeIdade",
+            "request": "launch",
+            "mainClass": "edu.eduardo.nomeIdade",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch tabuada",
+            "request": "launch",
+            "mainClass": "edu.eduardo.tabuada",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch parImpar",
+            "request": "launch",
+            "mainClass": "edu.eduardo.parImpar",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch maiorMedia",
+            "request": "launch",
+            "mainClass": "edu.eduardo.maiorMedia",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch aluno",
+            "request": "launch",
+            "mainClass": "edu.eduardo.aluno",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.eduardo.classes.MinhaClasse",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boletim",
+            "request": "launch",
+            "mainClass": "edu.eduardo.exemplo.Boletim",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "edu.eduardo.metodos.Usuario",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "edu.eduardo.operadores.Operadores",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresBoolena",
+            "request": "launch",
+            "mainClass": "edu.eduardo.operadores.OperadoresBoolena",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresMais",
+            "request": "launch",
+            "mainClass": "edu.eduardo.operadores.OperadoresMais",
+            "projectName": "dio-java-basico_1321b372"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "edu.eduardo.teste",
+            "projectName": "dio-java-basico_1321b372",
+            "args": [
+                "chupeta"
+            ]
+        }
+    ]
+}
