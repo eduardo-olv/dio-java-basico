@@ -24,8 +24,6 @@
 
 ​	[Collections Framework](Anotações/Collections.md)
 
-​	[Stream](Anotações/Stream.md)
-
 ​	[Exceções](Anotações/Exceções.md)
 
 ## Organização por Pacotes
