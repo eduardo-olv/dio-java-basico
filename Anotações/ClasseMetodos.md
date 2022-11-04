@@ -59,3 +59,15 @@ Quando um método (Assinatura) pode receber diferentes parâmetros para fazer a 
 **converterParaInt** (double d)
 
 **converterParaInt** (string s)
+
+
+
+## Visibilidade
+
+Define a visibilidade da classe e método para outras classes e métodos.
+
+**public**: Em qualquer lugar.
+
+**private**: Só dentro da classe.
+
+**protected**: Dentro da classe, pacote e subclasses.

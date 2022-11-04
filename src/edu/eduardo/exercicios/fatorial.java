@@ -17,5 +17,7 @@ public class fatorial {
            
         }
         System.out.println("! = " + multiplicacao);
+        scan.close();
     }
+    
 }

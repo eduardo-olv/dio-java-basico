@@ -18,6 +18,7 @@ public class nomeIdade {
             System.out.println("Idade: ");
             idade = scan.nextInt();
         }
+        scan.close();
     }
 
 

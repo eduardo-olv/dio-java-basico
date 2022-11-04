@@ -20,7 +20,13 @@
 
 ​	[Repetições](Anotações/Repetições.md)
 
+​	[Orientação a Objetos](Anotações/POO.md)
 
+​	[Collections Framework](Anotações/Collections.md)
+
+​	[Stream](Anotações/Stream.md)
+
+​	[Exceções](Anotações/Exceções.md)
 
 ## Organização por Pacotes
 
@@ -37,6 +43,10 @@ edu (educação); com (comercial);
 Os arquivos java receberão uma linha de código indicando que está dentro de um pacote:
 
 **package** edu.eduardo.primeirasemana;
+
+**import** edu.eduardo.segundasemana;
+
+
 
 
 

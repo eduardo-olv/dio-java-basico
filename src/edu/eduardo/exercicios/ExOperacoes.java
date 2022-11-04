@@ -16,6 +16,7 @@ public class ExOperacoes {
        subtrair(numeroUm, numeroDois);
        multiplicar(numeroUm, numeroDois);
        dividir(numeroUm, numeroDois);
+       scan.close();
     }
 
 
